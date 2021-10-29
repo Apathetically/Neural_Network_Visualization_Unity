@@ -1,0 +1,5 @@
+Epoch 97.
+Train Loss: 0.763068.
+Train Acc: 0.733976.
+Valid Loss: 1.055955.
+Valid Acc: 0.647852.
