@@ -23,4 +23,5 @@ GPU
 5. for vscode, activate the pytorch-enviroment and run python ./main.py
 
 like this
+
 <img width="600" height="350" src="https://user-images.githubusercontent.com/37832985/139447708-35ede03e-ac7d-48d0-869e-8f81a2ad5e93.png"/>
